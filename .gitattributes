@@ -25,6 +25,7 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.ai filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
+*.icon filter=lfs diff=lfs merge=lfs -text
 
 #Audio
 *.mp3 filter=lfs diff=lfs merge=lfs -text
@@ -49,8 +50,12 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
+*.unityweb filter=lfs diff=lfs merge=lfs -text
 *.aif filter=lfs diff=lfs merge=lfs -text
 *.ttf filter=lfs diff=lfs merge=lfs -text
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 *.lxo filter=lfs diff=lfs merge=lfs -text
+*.css filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
