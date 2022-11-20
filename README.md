@@ -4,7 +4,7 @@ Some screenshot of the project
 
 ##
 
-<img src=Capture1.png>
+<img src=Capture1.PNG>
 
 ##
 
